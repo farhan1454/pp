@@ -1,14 +1,17 @@
 {
-    "loader": {
+    "loader":{
         "version": "1.0"
     },
     "announce_ttl": {
         "name": "Welcome to skullshooter, click here to join our telegram channel for more announcement"
     },
+    "update_ttl": {
+        "name": "Update"
+    },
     "weather32": {
         "typeWeather": "Clear"
     },
-    "status32bit": {
+    "status32bit":{
         "name": "Safe"
     },
     "status64bit": {
@@ -30,6 +33,7 @@
         "version": "1.0.0",
         "url": "https://github.com/farhan1454/NewYear/raw/main/liblibpg-lib"
     },
+    
     "libpg32NativeArm_v7a.so": {
         "version": "1.0.0",
         "url": "https://github.com/farhan1454/NewYear/raw/main/liblibpg-lib"
@@ -38,9 +42,11 @@
         "version": "1.0.0",
         "url": "https://github.com/farhan1454/NewYear/raw/main/liblibpg64-lib"
     },
-    "libpg64NativeArm_v7a.so": {
+   "libpg64NativeArm_v7a.so": {
         "version": "1.0.0",
         "url": "https://github.com/farhan1454/NewYear/raw/main/liblibpg64-lib"
-    },
-    "update_ttl": 3600
+        
+    }
+    
+    
 }
